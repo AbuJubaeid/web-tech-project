@@ -1,0 +1,34 @@
+[
+    {
+        "name": "tawfiq",
+        "uname": "tawfiq",
+        "gender": "Male",
+        "email": "tawfiq@gmail.com",
+        "password": "tawfiq",
+        "confirmpassword": "tawfiq"
+    },
+    {
+        "name": "abcd",
+        "uname": "abcdefg",
+        "gender": "Male",
+        "email": "abcd@gmail.com",
+        "password": "abcdefg",
+        "confirmpassword": "abcdefg"
+    },
+    {
+        "name": "pranto",
+        "uname": "pranto",
+        "gender": "Male",
+        "email": "pranto@gmail.com",
+        "password": "pranto",
+        "confirmpassword": "pranto"
+    },
+    {
+        "name": "pranto",
+        "uname": "pranto",
+        "gender": "Male",
+        "email": "pranto",
+        "password": "sad",
+        "confirmpassword": "sd"
+    }
+]
